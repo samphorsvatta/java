@@ -6,6 +6,7 @@ class display {
         // Initializing variables
         /**
          * I am writing a comment!
+         *  Hello this is adam's commit!
          */
         boolean cond = true;
         int a = 10, b = 1;
