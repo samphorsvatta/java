@@ -4,6 +4,9 @@ class display {
     public static void main(String[] args)
     {
         // Initializing variables
+        /**
+         * I am writing a comment!
+         */
         boolean cond = true;
         int a = 10, b = 1;
 
